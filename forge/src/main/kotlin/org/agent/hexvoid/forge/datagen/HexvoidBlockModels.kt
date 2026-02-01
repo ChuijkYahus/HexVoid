@@ -35,6 +35,7 @@ class HexvoidBlockModels(output: PackOutput, efh: ExistingFileHelper) : PaucalBl
         easyBlockAndItem(HexvoidBlocks.CRYSTAL_SHEEN)
         easyBlockAndItem(HexvoidBlocks.CRYSTAL_DULL)
         easyBlockAndItem(HexvoidBlocks.CARNIVOROUS_LEAVES)
+        easySaplingBlockAndItem(HexvoidBlocks.CARNIVOROUS_SAPLING)
     }
 
     private fun easyHorizontalBlockAndItem(entry: RegistrarEntry<Block>) {

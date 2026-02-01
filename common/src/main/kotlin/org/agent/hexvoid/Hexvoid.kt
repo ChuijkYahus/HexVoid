@@ -9,6 +9,7 @@ import org.agent.hexvoid.registry.HexvoidActions
 import org.agent.hexvoid.registry.HexvoidBlockEntities
 import org.agent.hexvoid.registry.HexvoidBlocks
 import org.agent.hexvoid.registry.HexvoidCreativeTabs
+import org.agent.hexvoid.registry.HexvoidFeatures
 import org.agent.hexvoid.registry.HexvoidFluids
 import org.agent.hexvoid.registry.HexvoidIotaTypes
 import org.agent.hexvoid.registry.HexvoidItems
@@ -32,6 +33,7 @@ object Hexvoid {
             HexvoidBlocks,
             HexvoidBlockEntities,
             HexvoidItems,
+            HexvoidFeatures,
             HexvoidCreativeTabs,
             HexvoidActions,
             HexvoidIotaTypes,
